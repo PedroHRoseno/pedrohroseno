@@ -8,14 +8,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohroseno&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos Populares
-
-Aqui estão alguns dos meus projetos mais populares:
-
-- [Projeto 1](https://github.com/PedroHRoseno/project-chess-console.git)
-- [Projeto 2]([https://github.com/pedrohroseno/projeto2](https://github.com/PedroHRoseno/vehicle-sales-manager))
-- [Projeto 3]([https://github.com/pedrohroseno/projeto3](https://github.com/PedroHRoseno/order-receiver))
-
 ### Contato
 
 Sinta-se à vontade para entrar em contato comigo:
