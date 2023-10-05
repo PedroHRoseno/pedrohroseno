@@ -1,16 +1,26 @@
-### Hi there 👋
+# Bem-vindo à Minha Conta no GitHub! 👋
 
-<!--
-**PedroHRoseno/pedrohroseno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estatísticas do GitHub
 
-Here are some ideas to get you started:
+[![Minhas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pedrohroseno&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Linguagens de Programação Favoritas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohroseno&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Projetos Populares
+
+Aqui estão alguns dos meus projetos mais populares:
+
+- [Projeto 1](https://github.com/PedroHRoseno/project-chess-console.git)
+- [Projeto 2]([https://github.com/pedrohroseno/projeto2](https://github.com/PedroHRoseno/vehicle-sales-manager))
+- [Projeto 3]([https://github.com/pedrohroseno/projeto3](https://github.com/PedroHRoseno/order-receiver))
+
+### Contato
+
+Sinta-se à vontade para entrar em contato comigo:
+
+- [LinkedIn](https://www.linkedin.com/in/pedro-hroseno/)
+- [Email](mailto:pedro.henrik94@gmail.com)
+
+Espero que você encontre algo interessante em meus repositórios! 😄
